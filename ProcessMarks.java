@@ -1,5 +1,5 @@
 /*
-Student_Name: Bednidhi Rijal (Ben)
+Name: Bednidhi Rijal (Ben)
 Date: 27-04-2020
 Time:8:13 pm
 
